@@ -1,0 +1,5 @@
+{
+  "database": {
+    "srv": "mongodb+srv://yxurbrx:browneyes75471521@yxurbrx.o0ewh.mongodb.net/moviedb?retryWrites=true&w=majority"
+  }
+}
